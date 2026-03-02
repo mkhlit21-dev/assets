@@ -1,0 +1,11 @@
+{
+    "name": "FAKE Tether USDT",
+    "type": "BEP20",
+    "symbol": "FAKE USDT",
+    "decimals": 6,
+    "description": "This token is malicious do not interact",
+    "website": "https://bscscan.com/token/0x5764AF35C04171f71Da56ad39FaC07e9171D975b",
+    "explorer": "https://bscscan.com/token/0x5764AF35C04171f71Da56ad39FaC07e9171D975b",
+    "status": "spam",
+    "id": "0x5764AF35C04171f71Da56ad39FaC07e9171D975b"
+}
