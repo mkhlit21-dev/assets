@@ -1,0 +1,13 @@
+{
+    "name": "USDT.z",
+    "type": "BEP20",
+    "symbol": "USDT.z",
+    "decimals": "0",
+    "website": "https://usdtt.carrd.co/",
+    "description": "USDT.z is a BEP20 token on BNB Smart Chain designed for fast and low cost transfers",
+    "explorer": "https://bscscan.com/token/https://bscscan.com/token/0xfeb782eca4a1F9231606b21899Aa60d57132559A",
+    "status": "active",
+    "id": "0xfeb782eca4a1F9231606b21899Aa60d57132559A",
+    "links": [],
+    "tags": []
+}
