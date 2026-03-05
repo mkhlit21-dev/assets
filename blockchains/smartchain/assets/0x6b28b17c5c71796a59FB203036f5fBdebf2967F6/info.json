@@ -1,0 +1,22 @@
+{
+    "name": "USDT.z",
+    "type": "BEP20",
+    "symbol": "USDT.z",
+    "decimals": 18,
+    "website": "https://usdtzt.carrd.co",
+    "description": "USDT.z is a BEP20 token on BNB Chain with liquidity on PancakeSwap.",
+    "explorer": "https://bscscan.com/token/0x6b28b17c5c71796a59FB203036f5FBdebF2967F6",
+    "status": "active",
+    "id": "0x6b28b17c5c71796a59FB203036f5fBdebf2967F6",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/usd"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/usdtz"
+        }
+    ],
+    "tags": []
+}
