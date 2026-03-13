@@ -1,0 +1,15 @@
+{
+ "name": "USDT.z Token List",
+ "logoURI": "https://i.ibb.co/mV4HpSbv/luck.png",
+ "keywords": ["defi"],
+ "tokens": [
+  {
+   "chainId": 56,
+   "address": "0xbA59BdcF60877eF7E16CDaEDFaa2e3a57e7f916a",
+   "symbol": "USDT.z",
+   "name": "USDT.z",
+   "decimals": 18,
+   "logoURI": "https://i.ibb.co/mV4HpSbv/luck.png"
+  }
+ ]
+}
